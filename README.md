@@ -1,1 +1,2 @@
 # Code-Quiz
+This is a short timed quiz that will test the users basic coding knowledge. The user will have 75 seconds to answer all the questions. For every wrong answer there will be a 10 second penalty. When you are done, feel free to add your initials if you post a high score. Good Luck! 
